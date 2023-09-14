@@ -1,0 +1,25 @@
+@font-face{
+    font-family: Allura-Regular;
+    src: url(font/Allura-Regular.ttf);
+}
+
+
+
+h1{
+    font-family: Allura-Regular;
+    /* font-family: 'Raleway', sans-serif; */
+/* font-weight: 800; */
+}
+
+p{
+    
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-weight: 600; */
+    /* font-style: italic; */
+    /* font-variant: small-caps ;
+    font-size: 30px; */
+    
+    /* font-size: 30px;
+    font-weight: regular;
+    font-style: italic; */
+}

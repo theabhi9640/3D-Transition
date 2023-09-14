@@ -1,0 +1,9 @@
+/* li:last-child{
+    color: red;
+} */
+li:nth-child(odd){
+    color: red;
+}
+input:focus{
+    border: 3px solid red;
+}

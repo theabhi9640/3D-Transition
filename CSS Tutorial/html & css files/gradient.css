@@ -1,0 +1,14 @@
+/* linearGradient */
+#div1{
+    height: 500px;
+    border: 1px solid gray;
+    /* background-image: linear-gradient(to bottom right, green, blue, red); */
+    background-image: linear-gradient(to right, green, blue, red);
+}
+/* radial gradient  */
+#div1{
+    height: 500px;
+    border: 1px solid gray;
+    /* background-image: linear-gradient(to bottom right, green, blue, red); */
+    background-image: radial-gradient( green 20%, blue 30%, red 60%);
+}

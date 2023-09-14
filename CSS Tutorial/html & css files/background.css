@@ -1,0 +1,12 @@
+#bg{
+    background-color: yellow;
+    background-image:url(images/6.png), url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: left top, right bottom;
+   
+}
+
+/*body{
+    background-color: red
+    ;
+}*/

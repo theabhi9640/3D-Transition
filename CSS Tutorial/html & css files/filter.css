@@ -1,0 +1,46 @@
+/* img{
+    filter: contrast(70%)
+} */
+
+/* img{
+    filter:blur(10px) ;
+} */
+
+/* img{
+    filter:brightness(50%) ;
+} */
+
+/* img{
+    filter: drop-shadow(8px 8px 5px red);
+} */
+
+/* img{
+    filter: grayscale(70%) ;
+} */
+/* img{
+    filter: hue-rotate(90deg) ;
+} */
+/* img{
+    filter: opacity(30%) ;
+} */
+/* img{
+    filter: saturate(30%) ;
+} */
+/* img{
+    filter:sepia(50%) ;
+} */
+
+ /* we can use many properties at time  */
+
+img{
+    filter: brightness(80%), contrast(100%), opacity(50%) ;
+}
+
+
+
+
+
+
+
+
+

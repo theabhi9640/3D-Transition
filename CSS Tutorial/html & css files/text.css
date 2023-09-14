@@ -1,0 +1,37 @@
+#text{
+    width: 500px;
+    border: solid black;
+    color: blueviolet; 
+    text-align: justify; 
+    /* direction: rtl; */
+
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-transform: uppercase; */
+    /* text-transform: capitalize; */
+    /* line-height: 20px; */
+    /* text-indent: 50px; */
+    /* letter-spacing: 3px; */
+    /* word-spacing: 15px; */
+    /* white-space: normal; */
+    /* word-wrap: break-word; */
+}
+/* #shadow{
+    font-size: 70px;
+    text-shadow: 5px 10px 6px red;
+} */
+
+#rtl{
+    width: 500px;
+    border: solid red;
+    writing-mode: vertical-rl;
+}
+
+
+
+    
+/* img{
+    border: 1px solid red;
+    vertical-align: middle;
+}    */
